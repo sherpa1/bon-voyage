@@ -1,0 +1,4 @@
+trips/api/.env
+trips/api/node_modules
+trips/db/data
+trips/db/.env
